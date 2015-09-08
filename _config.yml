@@ -1,12 +1,12 @@
 # Site settings
-title: Polar Bear
+title: Maria on the Web
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+  Design? Computer Science? Bio? Traipsing through Cleveland? It's all here.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://username.github.io" # the base hostname & protocol for your site
-twitter_username: username
-github_username: username
+url: "http://mariakuz.github.io" # the base hostname & protocol for your site
+twitter_username: m_keigh
+github_username: mariakuz
 
 # Build settings
 markdown: redcarpet
