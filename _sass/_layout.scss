@@ -1,7 +1,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 450px;
+        min-height: 200px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -9,7 +9,7 @@
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 250px;
+            min-height: 200px;
             background-position: center -250px;
         }
     }
@@ -22,7 +22,7 @@
         line-height: 80px;
         letter-spacing: 3px;
         text-align: center;
-        padding-top: 20px;
+        padding-top: 0px;
         clear: both;
         text-transform: uppercase;
         font-family: 'Open Sans';
@@ -34,9 +34,9 @@
     }
 
     .site-header span {
-        border: 10px solid #FFF;
+        border: 10px solid transparent;
         padding: 0.3em 0.5em;
-        margin: 10px 20px;
+        margin: 10px 0px;
         display: inline-block;
 
         @include media-query($on-palm) {
@@ -49,7 +49,7 @@
         float: right;
         line-height: 56px;
         margin-right: 25px;
-        padding-bottom: 100px;
+        padding-bottom: 0px;
 
         .page-link {
             line-height: $base-line-height;
