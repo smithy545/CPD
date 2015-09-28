@@ -1,3 +1,4 @@
+
 /* Site Header
  * ============================================== */
     .site-header {
@@ -168,4 +169,43 @@
                 font-size: 18px;
             }
         } */
+    }
+
+/* Image Format
+ * ============================================== */
+    .thumbnail {
+        height: 300px;
+        width: auto;
+        padding: 20px 20px 20px 0px;
+
+            @include media-query($on-laptop) {
+                    height: 100px;
+                    width: auto;
+                }
+    }
+
+    .post-image {
+        img {
+        height: 400px;
+        width: auto;
+        padding: 5px;
+        display: inline-block;
+        align: center;
+        justify-content: center;
+        text-align: center;
+        padding: 5px;
+            @include media-query($on-laptop) {
+                    height: 500px;
+                    width: auto;
+                }
+        }
+
+        font-size: $small-font-size;
+        color: $grey-color-legible;
+      
+    }
+
+
+    .construction{
+        filter: opacity(30);
     }

@@ -2,6 +2,7 @@
 category: cleveland
 layout: post
 date: 2015-09-05
+published: false
 ---
 
 While scoping through things to do in Cleveland, I ran into a place I'd never heard of - Gotta Groove Records. Apparently the only vertical record pressing plant in the area

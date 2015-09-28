@@ -18,6 +18,7 @@ $brand-color:      #FFAE00;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 30%);
+$grey-color-legible: lighten($grey-color, 10%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
