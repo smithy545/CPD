@@ -10,16 +10,16 @@ As Magnolia Community Council’s PR chair this year, it was up to me broadcast 
 
 An issue we had been struggling with all year was a logo. People would look at posters with our abbreviation (MaCC) and ask where he was! By creating a logo, I hoped that people would recognize that we were a subset of RHA and were in fact our own organization.
 
-##Logo
+<h3>Logo</h3>
 
 While the council agreed we should have a logo, no one was really sure what it should look like. Deciding to not get tripped up on those minor details, we talked about some simple shapes as starting suggestions. I played with a couple, and decided on a round stamp that reminded us of the globe on the Magnolia crest. 
 <div class = "post-image">
-<image alt ="After some controversy on the orientation of the letters, the logo was approved by the council." src= "/images/susweek/minutes.png"/> <br/>
+<image height="auto" alt ="After some controversy on the orientation of the letters, the logo was approved by the council." src= "/images/susweek/minutes.png"/> <br/>
 After some controversy on the orientation of the letters, the logo was approved by the council. 
 </div>
 <br/>
 
-##Flyers
+<h3>Flyers</h3>
 
 The logo would be used on all of our flyers from then on, as our main method of advertising was hanging posters in the dorms. There was a flyer created for each event, as well as one detailing the weekly line-up. Printing and hanging was left to our president’s discretion, which he did with no small amount of enthusiasm.
 <div class = "post-image">
@@ -36,7 +36,7 @@ We ended up with more than we could use, but we made sure to recycle them.
 </div>
 <br/>
 
-##Facebook Page
+<h3>Facebook Page</h3>
 
 Each event had its own Facebook event created through our Facebook page. We encouraged people to invite their friends, since a large chunk of the events were open to all first years or to all of campus. While setting up and during the events, I posted pictures to attract more students and all to show off what a fun time everyone was having!
 <div class = "post-image">
@@ -44,25 +44,23 @@ Each event had its own Facebook event created through our Facebook page. We enco
 Morgan McMahon let us borrow his camera and take some of the pictures for posting to Facebook, such as during the Let It Grow herb planter event. 
 </div>
 <br/>
-
-<br/>
 <div class = "post-image">
 <image alt ="One of our events was bleaching old t-shirts - we set up camp across from the cafeteria " src= "/images/susweek/bleach.jpg"/> <br/>
 One of our events was bleaching old t-shirts - we set up camp across from the cafeteria
 </div>
 <br/>
 
-##T-Shirts
+<h3>T-Shirts</h3>
 
 Council agreed we all wanted some Magnolia swag, mostly because we all love free t-shirts. To promote Sustainability Week, we all wore the shirts in the week leading up and during the events and told people where they could buy them for the “super cute price of $1!″ Due to a late shipment of shirts, we weren’t able to sell them the week before as promo, but people snapped them up regardless and we’ve seen them around campus even after the week has ended. 
 
 <div class = "post-image">
-<image alt ="OOn the front, Magnolia Community Council and our new logo, while the back presented the week’s events and our sponsors." src= "/images/susweek/shirts.jpg"/> <br/>
+<image alt ="On the front, Magnolia Community Council and our new logo, while the back presented the week’s events and our sponsors." src= "/images/susweek/shirts.jpg"/> <br/>
 On the front, Magnolia Community Council and our new logo, while the back presented the week’s events and our sponsors.
 </div>
 <br/>
 
-##Snack with MaCC
+<h3>Snack with MaCC</h3>
 
 Our culminating event of the week was a sustainable tasting of Cleveland foods, where we hoped people learned a little more about eating green. Inspired by a graphic in The Design Activist’s Handbook,  I suggested we handed a brochure of what people were eating and some tips/facts, but with a twist. To encourage people to keep the flyer, it folded out into a poster for their wall! While the rest of the week’s posters were printed using a school printer, I urged us to print an unconventional size and on 30% PCW paper from a local printer to have our brochure stand out and look good, as well as stay in line with our principles of recycling. 
 
