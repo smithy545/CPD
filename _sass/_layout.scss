@@ -195,7 +195,7 @@
         text-align: center;
         padding: 5px;
             @include media-query($on-laptop) {
-                    height: 500px;
+                    height: auto;
                     width: auto;
                 }
         }
