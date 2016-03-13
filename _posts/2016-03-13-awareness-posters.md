@@ -22,7 +22,7 @@ We'd be expanding the series to four posters instead of three, and I set out to 
 
 Inspired by the Walker Art Center redesign, I tried to bring our school-standard font, Titillium into a brighter context by using it in all-caps.
 <div class = "post-image">
-<image height="auto" alt ="Art museum, student posters, same difference." src= "/images/bathposters/walker.jpg"/> <br/>
+<image height="auto" alt ="Art museum, student posters, same difference. From http://cdn2.walkerartcenter.org/static/cache/c6/c65b17f639015709a5682525699436db.jpg" src= "/images/bathposters/walker.jpg"/> <br/>
 </div>
 <br/>
 
