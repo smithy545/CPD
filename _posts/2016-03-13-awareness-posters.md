@@ -20,13 +20,13 @@ At work, I mentioned to my supervisor that I had attended, and she responded sur
 
 We'd be expanding the series to four posters instead of three, and I set out to tackle the things that irked me the most. The gray background, drab color scheme, and awkward speech bubbles had to go. 
 
-Inspired by the Walker Art Center redesign, I tried to bring our school-standard font, Titillium into a brighter context by using it in all-caps.
+Inspired by the Walker Art Center redesign, I tried to bring our school-standard font, Titillium into a brighter context by using it in all-caps for the quotes.
 <div class = "post-image">
 <image height="auto" alt ="Art museum, student posters, same difference. From http://cdn2.walkerartcenter.org/static/cache/c6/c65b17f639015709a5682525699436db.jpg" src= "/images/bathposters/walker.jpg"/> <br/>
 </div>
 <br/>
 
-A white background would increase legibility, while a colorful open frame not only drew attention to the content, but also carried over a branding component.
+A white background would increase legibility, while a colorful open frame not only drew attention to the content, but also carried over a branding component. Some quotes were framed and some were in caps. In the focus groups, people asked for more images and figures.
 <div class = "post-image">
 <image height="auto" alt ="I made several different colors of poster." src= "/images/bathposters/purple-redesign.png"/> <br/>
 </div>
@@ -37,19 +37,23 @@ A white background would increase legibility, while a colorful open frame not on
 </div>
 <br/>
 
+I experimented with adding a book and exclamation icon for further readings or contact information.
+
 <div class = "post-image">
 <image height="auto" alt ="I made several different colors of poster." src= "/images/bathposters/progress-1.png"/> <br/>
 </div>
 <br/>
 
-We decided to leave the footer of the posters as is. It worked pretty well, and allowed the new posters to fit in with the old ones. As of this year, the new posters have been hung in over 2,000 bathroom stalls on campus.
+We decided to leave the footer of the posters as is. It worked pretty well, and allowed the new posters to fit in with the old ones.
+
+As of this year, the new posters have been hung in over 2,000 bathroom stalls on campus.
 
 <div class = "post-image">
 <image height="auto" alt ="Sometimes the new and the old mix." src= "/images/bathposters/old-2.jpg"/> <br/>
 </div>
 <br/>
 
-While the final versions of the posters involved some changes to fit the content, they still look fantastic! I'm so glad I was given the oppurtunity to create this series of social awareness posters. 
+Once I started the template, it was handed off to another team who would write all the information. While the final versions of the posters involved some changes to fit the content, they still look fantastic! I'm so glad I was given the oppurtunity to help create this series of social awareness posters. 
 
 <div class = "post-image">
 <image height="auto" alt ="A new poster in the wild." src= "/images/bathposters/new-1.jpg"/> <br/>
