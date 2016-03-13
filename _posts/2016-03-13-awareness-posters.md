@@ -14,7 +14,8 @@ Case Western Reserve University has something unique about its bathroom stalls. 
 </div>
 <br/>
 
-In the spring, I attended a focus group on the bathroom posters hosted by SAVE (Sexual Assault and Violence Educators). Even though the posters themselves had been created less than four years ago, both the content and the style of the posters looked way older. Some points that came up: lack of LGBTQ resources, outdated online information, and general unattractiveness.  
+In the spring, I attended a focus group on the bathroom posters hosted by SAVE (Sexual Assault and Violence Educators). Even though the posters themselves had been created less than four years ago, both the content and the style of the posters looked way older. Some points that came up in discussion included the lack of LGBTQ resources, outdated online information, and general unattractiveness. (Ok, maybe those were some point I brought up...)
+
 At work, I mentioned to my supervisor that I had attended, and she responded surprisingly: "Do you want to redesign them?"
 (Yes. Yes, I really wanted to.)
 
