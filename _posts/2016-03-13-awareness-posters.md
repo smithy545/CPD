@@ -33,7 +33,7 @@ A white background would increase legibility, while a colorful open frame not on
 <br/>
 
 <div class = "post-image">
-<image height="auto" alt ="I made several different colors of poster." src= "/images/bathposters/gree_redesign.png"/> <br/>
+<image height="auto" alt ="I made several different colors of poster." src= "/images/bathposters/green_redesign.png"/> <br/>
 </div>
 <br/>
 
