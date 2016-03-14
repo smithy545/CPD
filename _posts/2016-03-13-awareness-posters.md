@@ -7,14 +7,14 @@ thumbnail: /images/bathposters/progress-1.png
 summary: Creating a template for a campus-wide awareness program.
 ---
 
-Case Western Reserve University has something unique about its bathroom stalls. On the back on every one hangs a poster about sexual assault awareness, punctuated by commentary and comics. 
+Case Western Reserve University has something unique about its bathroom stalls: on the back on every one hangs a poster about sexual assault awareness, punctuated by commentary and comics. 
 
 <div class = "post-image">
 <image height="auto" alt ="These had been hanging around for a while." src= "/images/bathposters/old-1.jpg"/> <br/>
 </div>
 <br/>
 
-In the spring, I attended a focus group on the bathroom posters hosted by SAVE (Sexual Assault and Violence Educators). Even though the posters themselves had been created less than four years ago, both the content and the style of the posters looked way older. Some points that came up in discussion included the lack of LGBTQ resources, outdated online information, and general unattractiveness. (Ok, maybe those were some point I brought up...)
+In the spring, I attended a focus group on the bathroom posters hosted by SAVE (Sexual Assault and Violence Educators). Even though the posters themselves had been created less than four years ago, both the content and the style of the posters looked way older. A few points that came up in discussion included the lack of LGBTQ resources, outdated online information, and general unattractiveness. (Ok, maybe those were some points I brought up...)
 
 At work, I mentioned to my supervisor that I had attended, and she responded surprisingly: "Do you want to redesign them?"
 (Yes. Yes, I really wanted to.)
