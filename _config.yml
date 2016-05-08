@@ -9,7 +9,7 @@ twitter_username: m_keigh
 github_username: mariakuz
 
 # Build settings
-#kramdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
