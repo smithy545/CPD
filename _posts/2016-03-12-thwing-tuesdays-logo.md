@@ -4,7 +4,7 @@ layout: post
 published: false
 date: 2016-03-12
 title: Thwing Tuesdays
-thumbnail: /images/tt/tt-mem.jpg
+thumbnail: /images/tt/photo-booth.jpg
 summary: Know who's filling up Thwing every Tuesday.
 ---
 Thwing Tuesdays is a committee of the University Program Board. Every Tuesday at midday, members of the committee set up and hand out food and activities to students. The Thwing Atrium fills up quickly, with some students arriving half an hour before the event starts. The TT committee often gives out items with the UPB logo, but they agreed that they would like a logo of their own. Their committee leader wanted the logo for use on stickers so they could attach them to pre-purchased items such as candy boxes. 
