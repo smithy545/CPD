@@ -1,7 +1,7 @@
 ---
 category: design
 layout: post
-published: false
+published: true
 date: 2016-03-12
 title: Thwing Tuesdays
 thumbnail: /images/tt/photo-booth.jpg
