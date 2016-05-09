@@ -2,7 +2,7 @@
 category: design
 layout: post
 published: false
-date: 2016-04-01
+date: 2016-04-21
 title: DFA Design Day 2016 and DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
 summary: The University Program Board goes through a radical rebrand.
