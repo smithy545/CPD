@@ -5,7 +5,7 @@ published: false
 date: 2016-04-21
 title: DFA Design Day 2016 and DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
-summary: The University Program Board goes through a radical rebrand.
+summary: Icon set #1: now available in big, small, and glow-in-the-dark.
 ---
 This summer, Phi Kappa Theta (Ohio Alpha Beta chapter) reached out to me for help creating some sleek shirts to wear during fall rush. I had no idea what a 'good' design would entail and a quick search only brought up parodies of masculine company logos, which were usually a little crude. Since we wanted people to wear these even after rush, they had to be CUTE.
 
