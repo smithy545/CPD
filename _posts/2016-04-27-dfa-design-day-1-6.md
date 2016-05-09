@@ -1,7 +1,7 @@
 ---
 category: design
 layout: post
-date: 2016-04-27
+date: 2016-04-21
 title: DFA Design Day 2016 and DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
 summary: Icons for Design For America's Design Day: now available in big, small, and glow-in-the-dark.
