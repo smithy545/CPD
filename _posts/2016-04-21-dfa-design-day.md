@@ -1,10 +1,11 @@
 ---
 category: design
 layout: post
+published: true
 date: 2016-04-21
 title: DFA Design Day 2016 and DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
-summary: Icon set #1: now available in big, small, and glow-in-the-dark.
+summary: My first icon set is now available in big, small, and glow-in-the-dark.
 ---
 Design for America (DFA) utilizes Capital-D Design to solve issues in our community. For our final exposition, I whipped together some graphic design.
 
