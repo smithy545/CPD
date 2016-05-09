@@ -7,6 +7,8 @@ title: DFA Design Day 2016 + DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
 summary: Icons for Design For America's Design Day: now available in big, small, and glow-in-the-dark.
 ---
+
+
 Design for America (DFA) utilizes Capital-D Design to solve issues in our community. For our final exposition, I whipped together some graphic design.
 
 DFA is an student organization involved in creating social impact. Throughout the semester, students scope out a problem space and work with a partner in the community to help solve an issue that they are facing. At the mid-semester mark, we hold an Open Studio for DFA groups to receive feedback from faculty and anyone who wishes to stop by. Similarly, we celebrate and display progress on everyone's projects at the end of the year. For our expo this year, the planning committee and I decided to encourage Case Western Reserve University (CWRU) students to share their passions. We wanted people to show off what they worked on outside of school, and encourage students and members of the Cleveland community to connect with each other and potentially further their projects.
