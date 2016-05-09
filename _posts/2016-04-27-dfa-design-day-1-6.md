@@ -1,6 +1,7 @@
 ---
 category: design
 layout: post
+published: true
 date: 2016-04-27
 title: DFA Design Day 2016 + DFA Shirts
 thumbnail: /images/Design-Day/DFA-event.png
