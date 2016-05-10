@@ -1,7 +1,8 @@
 ---
 category: design
 layout: post
-date: 2016-05-1
+published: true
+date: 2016-05-01
 title: Detergent, but Swedish?
 thumbnail: /images/farsk/farsk.gif
 summary: The premiere high-end eco-friendly detergent.
