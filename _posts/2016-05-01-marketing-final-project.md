@@ -10,7 +10,7 @@ summary: The premiere high-end eco-friendly detergent.
 Our final project in Marketing 201 was to rebrand and re-market a dollar bottle of detergent. Bright orange bottle, looked and smelled a lot like blue-colored bubble solution, and it was called "LA's Awesome Detergent." What ensued was a little ridiculous.
 
 <div class = "post-image">
-<image alt ="Our logomark." src= "/images/farsk/farsk-01.png"/> <br/>
+<image alt ="Our logomark." src= "/images/farsk/farsk-01.png" height="300" width="auto"/> <br/>
 </div>
 <br/>
 During class, we had several field research days where we collected information about consumers. Some key points:
