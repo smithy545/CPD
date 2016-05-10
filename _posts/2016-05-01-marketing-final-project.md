@@ -4,7 +4,7 @@ layout: post
 date: 2016-05-1
 title: Detergent, but Swedish?
 thumbnail: /images/farsk/farsk.gif
-summary: I designed some sleek fall rush shirts for Phi Kappa Theta!
+summary: The premiere high-end eco-friendly detergent: färsk.
 ---
 This summer, Phi Kappa Theta (Ohio Alpha Beta chapter) reached out to me for help creating some sleek shirts to wear during fall rush. I had no idea what a 'good' design would entail and a quick search only brought up parodies of masculine company logos, which were usually a little crude. Since we wanted people to wear these even after rush, they had to be CUTE.
 
