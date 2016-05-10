@@ -22,9 +22,7 @@ During class, we had several field research days where we collected information 
 <li> people also tended to use the same brand they use at home
 </ul>
 
-
-
-
+<br/><br/>
 After some late night ideas, we struck the perfect balance. Let's market our detergent like a pseudo-luxury vodka. We joked about calling it SKYY or Absolut, but decided on färsk, Swedish for fresh.  
 <div class = "post-image">
 <image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.JPG"/> <br/>
@@ -33,10 +31,10 @@ Not just a detergent, but somehow a trending hashtag (we hoped).</div>
 We thought about it - there's not really a high-end detergent on the market. Our customer didn't care about being eco-friendly, especially since they thought that 'green' products might not work as well. They trusted science and they wanted as many chemicals as possible to make their clothes look great.
 
 In our pitch, we stated that 
-
+<br/>
  <quote style="color: rgba(0,0,0,0.8); padding-left: 18px"> "We believe that there is a market need for high end detergents. Current branding is very focused on flowers, cuddly things, and aimed at moms. The leading competitor is Tide, which has very brand-loyal customers. There is no existing high-end eco-friendly detergent, or even a high-end detergent of any kind. This is an untapped market with a lot of potential. People want something they can trust, and it needs to stand out on the shelf. <br>
 
-  Our new product embodies the effortlessly sustainable approach. Made of a recyclable plastic, the triangular-shaped container with embedded handle is designed to tessellate both on the shelf and while shipping in order to reduce shipping costs. The bottle shape is unique, important in differentiating färsk from any other detergent on the shelf. Every purchase goes to grants for research on sustainable packaging through the färsk filanthropi. By doing so, the brand is able to personally connect to grad students and burgeoning scientists while also contributing to saving the planet.
+  Our new product embodies the effortlessly sustainable approach. Made of a recyclable plastic, the triangular-shaped container with embedded handle is designed to tessellate both on the shelf and while shipping in order to reduce shipping costs. The bottle shape is unique, important in differentiating färsk from any other detergent on the shelf. <br/> Every purchase goes to grants for research on sustainable packaging through the färsk filanthropi. By doing so, the brand is able to personally connect to grad students and burgeoning scientists while also contributing to saving the planet.
   <br> The clear and simple packaging shows off the colorless detergent. The portable version for jetset busy people is compact and follows the same style guide. Priced slightly higher than Tide, färsk aims to reach the customers that are willing to spend a little more on a luxury. <br>
   
   This concentrated marketing approach targets cosmopolitans of any age. They just need to appreciate sleek efficiency." </quote> <br>
@@ -48,7 +46,8 @@ The triangular bottle would tesselate on the shelf, reducing shipping costs whil
 The unique bottle shape and philanthropy approach, combined with aggressive social media advertising would sell our attempt at minimal branding. We weren't selling detergent, we were selling a lifestyle. A sleek, cosmopolitan, and efficient lifestyle.
 
 We got caught up in all these shenanigans, but our presentation stood out from the rest. #färsk
-
+<br/>
+<br/>
 <div class = "post-image">
 <image alt ="It's better." src= "/images/farsk/farsk.gif"/> <br/>
 It's better.</div>
