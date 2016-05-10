@@ -24,7 +24,7 @@ During class, we had several field research days where we collected information 
 
 After some late night ideas, we struck the perfect balance. Let's market our detergent like a pseudo-luxury vodka. We joked about calling it SKYY or Absolut, but decided on färsk, Swedish for fresh.  
 <div class = "post-image">
-<image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.jpg"/> <br/>
+<image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.JPG"/> <br/>
 Not just a detergent, but somehow a trending hashtag (we hoped).</div>
 <br/>
 
@@ -34,7 +34,7 @@ Our new product embodies the effortlessly sustainable approach. Made of a recycl
 This concentrated marketing approach targets cosmopolitans of any age. They just need to appreciate sleek efficiency."
 
 <div class = "post-image">
-<image alt ="The triangular bottle would tesselate on the shelf, reducing shipping costs while presenting a unique image." src= "/images/farsk/farsk-bottle.jpg"/> <br/>
+<image alt ="The triangular bottle would tesselate on the shelf, reducing shipping costs while presenting a unique image." src= "/images/farsk/farsk-bottle.JPG"/> <br/>
 The triangular bottle would tesselate on the shelf, reducing shipping costs while presenting a unique image.</div>
 <br/>
 The unique bottle shape and philanthropy approach, combined with aggressive social media advertising would sell our attempt at minimal branding. We weren't selling detergent, we were selling a lifestyle. A sleek, cosmopolitan, and efficient lifestyle.
