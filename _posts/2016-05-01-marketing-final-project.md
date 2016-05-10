@@ -10,7 +10,7 @@ summary: The premiere high-end eco-friendly detergent.
 Our final project in Marketing 201 was to rebrand and re-market a dollar bottle of detergent. Bright orange bottle, looked and smelled a lot like blue-colored bubble solution, and it was called "LA's Awesome Detergent." What ensued was a little ridiculous.
 
 <div class = "post-image">
-<image alt ="Our logomark." src= "/images/farsk/farsk-01.png" height="300" width="auto"/> <br/>
+<image alt ="Our logomark." src= "/images/farsk/farsk-01.png" height="auto" width="auto"/> <br/>
 </div>
 <br/>
 During class, we had several field research days where we collected information about consumers. Some key points:
@@ -22,6 +22,7 @@ During class, we had several field research days where we collected information 
 <li> people also tended to use the same brand they use at home
 </ul>
 
+<br>
 After some late night ideas, we struck the perfect balance. Let's market our detergent like a pseudo-luxury vodka. We joked about calling it SKYY or Absolut, but decided on färsk, Swedish for fresh.  
 <div class = "post-image">
 <image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.JPG"/> <br/>
