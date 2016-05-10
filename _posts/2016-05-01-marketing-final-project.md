@@ -22,7 +22,8 @@ During class, we had several field research days where we collected information 
 <li> people also tended to use the same brand they use at home
 </ul>
 
-<br>
+</br>
+</br>
 After some late night ideas, we struck the perfect balance. Let's market our detergent like a pseudo-luxury vodka. We joked about calling it SKYY or Absolut, but decided on färsk, Swedish for fresh.  
 <div class = "post-image">
 <image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.JPG"/> <br/>
