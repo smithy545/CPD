@@ -6,30 +6,47 @@ title: Detergent, but Swedish?
 thumbnail: /images/farsk/farsk.gif
 summary: The premiere high-end eco-friendly detergent.
 ---
-This summer, Phi Kappa Theta (Ohio Alpha Beta chapter) reached out to me for help creating some sleek shirts to wear during fall rush. I had no idea what a 'good' design would entail and a quick search only brought up parodies of masculine company logos, which were usually a little crude. Since we wanted people to wear these even after rush, they had to be CUTE.
+Our final project in Marketing 201 was to rebrand and re-market a dollar bottle of detergent. Bright orange bottle, looked and smelled a lot like blue-colored bubble solution, and it was called "LA's Awesome Detergent." What ensued was a little ridiculous.
 
 <div class = "post-image">
-<image alt ="Steffen kicking off his modelling career on the patio (feat. crest!)" src= "/images/phikap/steffen.jpg"/> <br/>
-Steffen kicking off his modelling career on the patio (feat. crest!) </a>
+<image alt ="Our logomark." src= "/images/farsk/farsk-01.png"/> <br/>
 </div>
 <br/>
-After some initial discussion, I realized I didn't  want bright red shirts since no one actually wears those when they don't have to. The only issue? Phi Kappa's colors are cardinal purple (red) and yellow!
+During class, we had several field research days where we collected information about consumers. Some key points:
+<ul>
+<li> customers would pay more for a detergent that they felt worked better
+<li> our main competitor is Tide
+<li> liquid detergent was more popular than pods
+<li> but Tide pods were the most popular method
+<li> people also tended to use the same brand they use at home
+</ul>
 
-We briefly considered baseball shirts but set those aside in favor of a heather red. And we were committed to the heather red - it's one of my favorite parts of the end result. The final design was supposed to be printed in white and black, but due to a miscommunication, they received them in all white, which turned out pretty sharp.
+After some late night ideas, we struck the perfect balance. Let's market our detergent like a pseudo-luxury vodka. We joked about calling it SKYY or Absolut, but decided on färsk, Swedish for fresh.  
+<div class = "post-image">
+<image alt ="Not just a detergent, but somehow a trending hashtag (we hoped)." src= "/images/farsk/title.JPG"/> <br/>
+Not just a detergent, but somehow a trending hashtag (we hoped).</div>
+<br/>
+We thought about it - there's not really a high-end detergent on the market. Our customer didn't care about being eco-friendly, especially since they thought that 'green' products might not work as well. They trusted science and they wanted as many chemicals as possible to make their clothes look great.
+
+In our pitch, we stated that 
+ <quote> "We believe that there is a market need for high end detergents. Current branding is very focused on flowers, cuddly things, and aimed at moms. The leading competitor is Tide, which has very brand-loyal customers. There is no existing high-end eco-friendly detergent, or even a high-end detergent of any kind. This is an untapped market with a lot of potential. People want something they can trust, and it needs to stand out on the shelf.
+
+  Our new product embodies the effortlessly sustainable approach. Made of a recyclable plastic, the triangular-shaped container with embedded handle is designed to tessellate both on the shelf and while shipping in order to reduce shipping costs. The bottle shape is unique, important in differentiating färsk from any other detergent on the shelf. Every purchase goes to grants for research on sustainable packaging through the färsk filanthropi. By doing so, the brand is able to personally connect to grad students and burgeoning scientists while also contributing to saving the planet. The clear and simple packaging shows off the colorless detergent. The portable version for jetset busy people is compact and follows the same style guide. The subtle, subtil-branded scent leaves clothes smelling neutral and not overpoweringly floral. Priced slightly higher than Tide, färsk aims to reach the customers that are willing to spend a little more on a luxury.
+  
+  This concentrated marketing approach targets cosmopolitans of any age. They just need to appreciate sleek efficiency." </quote>
 
 <div class = "post-image">
-<image alt="Tommy pointing out to Stephen where the crest is" src ="/images/phikap/stephen.jpg" class = "post-image"/>
-<br/> Tommy pointing out to Stephen where the crest is. </div>
+<image alt ="The triangular bottle would tesselate on the shelf, reducing shipping costs while presenting a unique image." src= "/images/farsk/farsk-bottle.JPG"/> <br/>
+The triangular bottle would tesselate on the shelf, reducing shipping costs while presenting a unique image.</div>
 <br/>
+The unique bottle shape and philanthropy approach, combined with aggressive social media advertising would sell our attempt at minimal branding. We weren't selling detergent, we were selling a lifestyle. A sleek, cosmopolitan, and efficient lifestyle.
 
-I also created a calender of their rush events to hang around campus, keeping in mind that "we want it to look like a frat thing but like, in a good way."
-<br/>
-<br/>
+We got caught up in all these shenanigans, but our presentation stood out from the rest. #färsk
 
 <div class = "post-image">
-<image alt="One of the calendars, found in the wild." src ="/images/phikap/calendar.jpg" class = "post-image"/> <br/>
-One of the calendars, found in the wild.
-</div>
+<image alt ="It's better." src= "/images/farsk/farsk.gif"/> <br/>
+It's better.</div>
+<br/>
 
 
 
