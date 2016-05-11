@@ -36,7 +36,7 @@ Posts hinting at the event began appearing on the page about a week before. We h
 </div>
 <br/>
 
-The graphics and tone reflected a chill, slimer 90s vibe. We were pretty silly and I wanted this event to stand out. It was a really good offer: a hot slice of pizza from a reputable off-campus pizzeria in Little Italy and a custom sticker sheet. The Facebook posts outlined the situation of 1 like = 1 pizza slice.
+The graphics and tone reflected a chill, slimer 90s vibe. We were pretty silly and I wanted this event to stand out. It was an amazing offer: a hot slice of pizza from a reputable off-campus pizzeria in Little Italy and a custom sticker sheet. I knocked out the doodles while feeling particularly inspired and it was really fun to draw in all the drips. The Facebook posts outlined the situation of 1 like = 1 pizza slice.
 
 <div class = "post-image">
 <image alt ="A mockup of the sticker sheet (for better alignment, the final product involved some rotation)." src= "/images/pizza/pizza_slime-04.png"/> <br/>
