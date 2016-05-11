@@ -4,13 +4,13 @@ layout: post
 published: false
 date: 2016-04-01
 title: University Pizza Board
-thumbnail: /images/pizza/prank-00.jpg
+thumbnail: /images/pizza/prank-00.JPG
 summary: The University Program Board goes through a radical rebrand.
 ---
 Friday schedules at CWRU incorporate community hour, an hour and a half during which no student has class. When April 1st fell on a Friday this year, I knew UPB should capitalize on the opportunity. 
 
 <div class = "post-image">
-<image alt ="A Facebook update that reads: 'Friday. on the binary. (or thwing if the weather is subpar). snacks? a super secret brand reveal??? Be there for our UPB rebranding. Like us on facebook now so you can be the first to find out!'" src= "/images/pizza/prank-0.jpg"> <br/>
+<image alt ="A Facebook update that reads: 'Friday. on the binary. (or thwing if the weather is subpar). snacks? a super secret brand reveal??? Be there for our UPB rebranding. Like us on facebook now so you can be the first to find out!'" src= "/images/pizza/prank-0.JPG"> <br/>
 </div>
 <br/>
 
@@ -32,7 +32,7 @@ By doing so, I hoped to increase the amount of likes, as well as rewarding curre
 
 Posts hinting at the event began appearing on the page about a week before. We had to keep the hype rolling, or people would forget. The morning of, I revealed the surprise.
 <div class = "post-image">
-<image alt ="A Facebook update that reads: 'We're excited to announce that we are now the University Pizza Board. New look, same great taste! Come get a slice of the action (and of cheese pizza) on the binary at community hour!! Like us on Facebook for a lil pizza our love for you!'" src= "/images/pizza/prank-1.jpg"> <br/>
+<image alt ="A Facebook update that reads: 'We're excited to announce that we are now the University Pizza Board. New look, same great taste! Come get a slice of the action (and of cheese pizza) on the binary at community hour!! Like us on Facebook for a lil pizza our love for you!'" src= "/images/pizza/prank-1.JPG"> <br/>
 </div>
 <br/>
 
@@ -62,7 +62,7 @@ The official University Pizza Board jacket, with Erin displaying the matte stick
 We handed out pizza on napkins instead of plates to reduce the waste produced. We only ordered one type of pizza to reduce the amount of decision-making people had to make and simplify the interaction between UPB members and other students. Our event was centered on pizza and Facebook. By doing so, we did exclude people without smartphones and Facebook profiles, as well as those who could not consume the cheese pizza. We did, however, hand out the sticker sheets to everyone we saw (and maybe a few squirrels).
 
 <div class = "post-image">
-<image alt ="I posted a photo during the event to bump the event in people's newsfeeds." src= "/images/pizza/prank-2.jpg"> <br/>
+<image alt ="I posted a photo during the event to bump the event in people's newsfeeds." src= "/images/pizza/prank-2.JPG"> <br/>
 I posted a photo during the event to bump the event in people's newsfeeds.
 </div>
 <br/>
@@ -82,7 +82,7 @@ One participant (not pictured), claimed that he was in a hurry but took the time
 <br/>
 
 <div class = "post-image">
-<image alt ="At the end of community hour, it was time to set things straight." src= "/images/pizza/prank-3.jpg"> <br/>
+<image alt ="At the end of community hour, it was time to set things straight." src= "/images/pizza/prank-3.JPG"> <br/>
 At the end of community hour, it was time to set things straight.
 </div>
 <br/>
