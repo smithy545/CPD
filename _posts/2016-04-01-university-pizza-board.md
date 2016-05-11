@@ -1,7 +1,7 @@
 ---
 category: design
 layout: post
-published: false
+published: true
 date: 2016-04-01
 title: University Pizza Board
 thumbnail: /images/pizza/prank-00.JPG
