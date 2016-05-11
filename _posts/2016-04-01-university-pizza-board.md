@@ -39,7 +39,7 @@ Posts hinting at the event began appearing on the page about a week before. We h
 The graphics and tone reflected a chill, slimer 90s vibe. We were pretty silly and I wanted this event to stand out. It was a really good offer: a hot slice of pizza from a reputable off-campus pizzeria in Little Italy and a custom sticker sheet. The Facebook posts outlined the situation of 1 like = 1 pizza slice.
 
 <div class = "post-image">
-<image alt ="A mockup of the sticker sheet (for better alignment, the final product involved some rotation)." src= "/images/pizza/pizza_slime-04.png/"> <br/>
+<image alt ="A mockup of the sticker sheet (for better alignment, the final product involved some rotation)." src= "/images/pizza/pizza_slime-04.png"/> <br/>
 A mockup of the sticker sheet (for better alignment, the final product involved some rotation).
 </div>
 <br/>
@@ -53,6 +53,7 @@ The chilly day meant few people were on the binary, but it didn't slow us down.
 <br/>
 
 More UPB members than I expected showed up to hand out pizza! Our new board member windbreakers have our UPB logo, which was perfectly the size of the modified slimy logo. 
+
 <div class = "post-image">
 <image alt ="The official University Pizza Board jacket, with Erin displaying the matte sticker sheet." src= "/images/pizza/selfie.jpg"/> <br/>
 The official University Pizza Board jacket, with Erin displaying the matte sticker sheet.
