@@ -26,7 +26,7 @@ A few days later, though, I got an email saying my filter was approved! Erin and
 
 
 <div class = "post-image">
-<image alt ="The library Snapchat filter in use." src= "/images/snapchat/ksl-3.png"/> <br/>
+<image alt ="The library Snapchat filter in use." src= "/images/snapchat/ksl-3.PNG"/> <br/>
 </div>
 <br/>
 
