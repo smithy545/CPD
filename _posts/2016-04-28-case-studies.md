@@ -8,6 +8,7 @@ summary: Encouraging members of DFA to reflect on their process.
 ---
 For the final meeting of the semester, I led the studio in creating a case study based on their work. In Design For America, we spend a lot of time learning the human-centered design process and generating ideas, but it can be difficult to talk about why we chose specific ideas. 
 
+
 Often, at presentations, teams will be confronted with a wall of questions: why didn't you do this idea? Why did you choose this one? How did you decide? It's hard to finish a presentation when someone older than you cuts you off and starts a line of questioning. There's also not much discussion on what we learned and how to discuss our experiences. Even though many studio members are engineers, they spent a semester working on a team to solve a problem. I think that's worth talking about!
 
 By hosting this case study module, I hoped to encourage members to reflect on their process and to be able to present their project in context. A solution may seem simple at first, but explaining the problem the team set out to solve, and the challenges they faced, develops the idea and can lead to more meaningful feedback. 
