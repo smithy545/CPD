@@ -13,7 +13,7 @@ Often, at presentations, teams will be confronted with a wall of questions: why 
 
 By hosting this case study module, I hoped to encourage members to reflect on their process and to be able to present their project in context. A solution may seem simple at first, but explaining the problem the team set out to solve, and the challenges they faced, develops the idea and can lead to more meaningful feedback. 
 
-<div class = "post-image gall">
+<div class = "post-image">
 <image alt ="Well what's a case study for?" src= "/images/case-studies/cs(2).png"/> <br/>
 Well what's a case study for?
 </div><!--
