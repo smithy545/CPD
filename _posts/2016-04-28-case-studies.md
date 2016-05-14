@@ -1,5 +1,5 @@
 ---
-category: dfa
+category: design
 layout: post
 date: 2016-04-28
 title: Case Study Workshop
