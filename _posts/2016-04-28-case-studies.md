@@ -64,7 +64,7 @@ As an example, I used my team's ongoing project.
 </div>
 <br/>
 
-div class = "post-image gall"> <a href= "http://www.teehanlax.com/story/shipwire/" target="_blank">
+<div class = "post-image gall"> <a href= "http://www.teehanlax.com/story/shipwire/" target="_blank">
 <image alt ="I used this case study by Teehan + Lax as an example." src= "/images/case-studies/cs(12).png"/> </a> <br/>
 I used this case study by Teehan + Lax as an example.
 </div>
