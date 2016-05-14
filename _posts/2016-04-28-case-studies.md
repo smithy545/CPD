@@ -3,7 +3,7 @@ category: dfa
 layout: post
 date: 2016-04-28
 title: Case Study Workshop
-thumbnail: /images/case-studies/post.PNG
+thumbnail: /images/case-studies/post.png
 summary: Encouraging members of DFA to reflect on their process.
 ---
 For the final meeting of the semester, I led the studio in creating a case study based on their work. In Design For America, we spend a lot of time learning the human-centered design process and generating ideas, but it can be difficult to talk about why we chose specific ideas. 
@@ -13,11 +13,11 @@ Often, at presentations, teams will be confronted with a wall of questions: why 
 By hosting this case study module, I hoped to encourage members to reflect on their process and to be able to present their project in context. A solution may seem simple at first, but explaining the problem the team set out to solve, and the challenges they faced, develops the idea and can lead to more meaningful feedback. 
 
 <div class = "post-image gall">
-<image alt ="Well what's a case study for?" src= "/images/case-studies/cs(2).PNG"/> <br/>
+<image alt ="Well what's a case study for?" src= "/images/case-studies/cs(2).png"/> <br/>
 Well what's a case study for?
 </div><!--
 --><div class = "post-image gall">
-<image alt ="The difference between the two." src= "/images/case-studies/cs(3).PNG"/> <br/>
+<image alt ="The difference between the two." src= "/images/case-studies/cs(3).png"/> <br/>
 </div><br/>
 
 To prepare, I read through several marketing case studies, as well as course materials for both engineering and arts classes. Case studies focus on analyzing the process, while one-pagers are more of a brief summary of where the project currently stands. 
@@ -25,32 +25,32 @@ To prepare, I read through several marketing case studies, as well as course mat
 Members of the studio would be writing about projects that were potentially still in progress, so this template should also help them discuss where they currently.
 
 <div class = "post-image gall">
-<image alt ="Introduction." src= "/images/case-studies/cs(4).PNG"/> <br/>
+<image alt ="Introduction." src= "/images/case-studies/cs(4).png"/> <br/>
 </div><!--
 --><div class = "post-image gall">
-<image alt ="Background." src= "/images/case-studies/cs(5).PNG"/> <br/>
+<image alt ="Background." src= "/images/case-studies/cs(5).png"/> <br/>
 </div><!--
 --><div class = "post-image gall">
-<image alt ="Alternative Solutions." src= "/images/case-studies/cs(6).PNG"/> <br/>
+<image alt ="Alternative Solutions." src= "/images/case-studies/cs(6).png"/> <br/>
 </div>
 <br/>
 
 <div class = "post-image gall">
-<image alt ="Proposed Solution." src= "/images/case-studies/cs(7).PNG"/> <br/>
+<image alt ="Proposed Solution." src= "/images/case-studies/cs(7).png"/> <br/>
 </div><!--
 --><div class = "post-image gall">
-<image alt ="Future." src= "/images/case-studies/cs(8).PNG"/> <br/>
+<image alt ="Future." src= "/images/case-studies/cs(8).png"/> <br/>
 </div>
 <br/>
 
 <div class = "post-image gall">
-<image alt ="Why use a case study?" src= "/images/case-studies/cs(9).PNG"/> <br/>
+<image alt ="Why use a case study?" src= "/images/case-studies/cs(9).png"/> <br/>
 </div><!--
 --><div class = "post-image gall">
-<image alt ="Strengthen your portfolio." src= "/images/case-studies/cs(10).PNG"/> <br/>
+<image alt ="Strengthen your portfolio." src= "/images/case-studies/cs(10).png"/> <br/>
 </div><!--
 --><div class = "post-image gall">
-<image alt ="Record everything!!" src= "/images/case-studies/cs(11).PNG"/> <br/>
+<image alt ="Record everything!!" src= "/images/case-studies/cs(11).png"/> <br/>
 </div>
 <br/>
 
@@ -59,13 +59,13 @@ To begin, every group wrote down key parts of their project, or anything that th
 Then, we went through the slides. For each slide, we spent several minutes writing down ideas on sticky notes, adding the key parts we'd written out before where they fit. After each round, we also shared with the rest of the studio in order to get comfortable composing a narrative.
 
 <div class = "post-image">
-<image alt ="As an example, I used my team's ongoing project." src= "/images/case-studies/post.PNG"/> <br/>
+<image alt ="As an example, I used my team's ongoing project." src= "/images/case-studies/post.png"/> <br/>
 As an example, I used my team's ongoing project. 
 </div>
 <br/>
 
 div class = "post-image gall"> <a href= "http://www.teehanlax.com/story/shipwire/" target="_blank">
-<image alt ="I used this case study by Teehan + Lax as an example." src= "/images/case-studies/cs(12).PNG"/> </a> <br/>
+<image alt ="I used this case study by Teehan + Lax as an example." src= "/images/case-studies/cs(12).png"/> </a> <br/>
 I used this case study by Teehan + Lax as an example.
 </div>
 <br/>
