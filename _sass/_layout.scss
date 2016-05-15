@@ -207,7 +207,13 @@
     }
     .gall {
         display: inline-block;
+    }
 
+    .cover {
+        max-width: 300px;
+        height: auto;
+        padding: 5 0 5 0;
+        display: inline-block;
     }
 
     .construction{
