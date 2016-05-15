@@ -15,11 +15,10 @@ By hosting this case study module, I hoped to encourage members to reflect on th
 
 <div class = "post-image cover">
 <image alt ="Well what's a case study for?" src= "/images/case-studies/cs(2).png"/> <br/>
-Well what's a case study for?
 </div><!--
 --><div class = "post-image cover">
 <image alt ="The difference between the two." src= "/images/case-studies/cs(3).png"/> <br/>
-</div><br/>
+</div>
 
 To prepare, I read through several marketing case studies, as well as course materials for both engineering and arts classes. Case studies focus on analyzing the process, while one-pagers are more of a brief summary of where the project currently stands. 
 
