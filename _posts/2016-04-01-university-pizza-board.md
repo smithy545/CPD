@@ -63,10 +63,10 @@ I posted a photo during the event to bump the event in people's newsfeeds.
 <br/>
 The event was well-received and many people were pleased surprised by the new rebrand.
 
-<div class = "post-image cover">
+<div class = "flyer">
 <image alt ="Erin poses with her slice of pizza and the UPB members in action." src= "/images/pizza/pose.jpg"/> <br/>
 </div><!--
---><div class = "post-image cover">
+--><div class = "flyer">
 <image alt ="One participant (not pictured), claimed that he was in a hurry but took the time to set down his belongings after our claims of 'there's always time for pizza.'" src= "/images/pizza/participant.jpg"/> <br/>
 </div>
 <br/>
