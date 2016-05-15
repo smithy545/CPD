@@ -25,32 +25,28 @@ To prepare, I read through several marketing case studies, as well as course mat
 
 Members of the studio would be writing about projects that were potentially still in progress, so this template should also help them discuss where they currently.
 
-<div class = "post-image gall">
+<div class = "post-image gall cover">
 <image alt ="Introduction." src= "/images/case-studies/cs(4).png"/> <br/>
 </div><!--
---><div class = "post-image gall">
+--><div class = "post-image gall cover">
 <image alt ="Background." src= "/images/case-studies/cs(5).png"/> <br/>
 </div><!--
---><div class = "post-image gall">
+--><div class = "post-image gall cover">
 <image alt ="Alternative Solutions." src= "/images/case-studies/cs(6).png"/> <br/>
-</div>
-<br/>
-
-<div class = "post-image gall">
+</div><!--
+--><div class = "post-image gall cover">
 <image alt ="Proposed Solution." src= "/images/case-studies/cs(7).png"/> <br/>
 </div><!--
---><div class = "post-image gall">
+--><div class = "post-image gall cover">
 <image alt ="Future." src= "/images/case-studies/cs(8).png"/> <br/>
-</div>
-<br/>
-
-<div class = "post-image gall">
+</div><!--
+--><div class = "post-image gall cover">
 <image alt ="Why use a case study?" src= "/images/case-studies/cs(9).png"/> <br/>
 </div><!--
---><div class = "post-image gall">
+--><div class = "post-image gall cover">
 <image alt ="Strengthen your portfolio." src= "/images/case-studies/cs(10).png"/> <br/>
 </div><!--
---><div class = "post-image gall">
+--><div class = "post-image gall cover">
 <image alt ="Record everything!!" src= "/images/case-studies/cs(11).png"/> <br/>
 </div>
 <br/>
