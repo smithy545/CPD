@@ -15,6 +15,7 @@ $spacing-unit:     30px;
 $text-color:       #454545;
 $background-color: #FFF;
 $brand-color:      #FFAE00;
+$accent-color: 	   #163257;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 30%);
@@ -39,6 +40,15 @@ $on-laptop:        700px;
     @media screen and (max-width: $device) {
         @content;
     }
+}
+
+@mixin prefix($property, $value, $vendors: webkit moz ms o) {
+      @if $vendors {
+        @each $vendor in $vendors {
+          #{"-" + $vendor + "-" + $property}: #{$value};
+        }
+      }
+      #{$property}: #{$value};
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

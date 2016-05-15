@@ -3,23 +3,18 @@ layout: default
 ---
 
 <div class="home">
-
-
-{% include construction.html %}
-<br/>
-  
   <h1 class="page-heading">What's New?</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <br/>
         <a href="{{ post.url | prepend: site.baseurl }}"> <img class = "thumbnail" src = "{{ post.thumbnail }}" alt = " {{ post.summary }}"/> </a> <br/>
         {{ post.summary }}
-      
       <p> {{ post.content | truncatewords: 50 }} </p>
       <a href="{{ post.url | prepend: site.baseurl }}"> Read More >>> </a>
       </li>
+      <br/>
     {% endfor %}
   </ul>
 </div>

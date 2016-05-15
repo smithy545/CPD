@@ -56,14 +56,16 @@
             line-height: $base-line-height;
             font-weight: bold;
             letter-spacing: 0.05em;
+            @include prefix(transition, color 0.4s linear, webkit moz ms o);
 
             &:not(:first-child) {
                 margin-left: 20px;
             }
+            
         }
 
         .page-link:hover {
-            opacity: 0.8;
+            color: $accent-color;
         }
 
         @include media-query($on-palm) {
@@ -188,12 +190,10 @@
         img {
         max-height: 400px;
         width: auto;
-        padding: 5 5 5 0;
+        padding: 5px 5px 5px 0;
         display: inline;
-        align: center;
         justify-content: center;
         text-align: center;
-        padding: 5px;
             @include media-query($on-laptop) {
                     height: auto;
                     width: auto;
@@ -202,19 +202,18 @@
 
         font-size: $small-font-size;
         color: $grey-color-legible;
-      
-    }
-    .gall {
-        display: inline-block;
     }
 
-    .cover {
-        max-width: 290px;
+    .cover {        
+        max-width: 310px;
         height: auto;
-        padding: 5 0 0 0;
         display: inline-block;
+        justify-content: center;
+        text-align: center;
+        padding: 5px;
     }
 
-    .construction{
-        filter: opacity(30);
+    .flyer {
+        @extend .post-image;
+        display: inline-block;
     }
