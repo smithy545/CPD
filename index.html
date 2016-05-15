@@ -17,7 +17,7 @@ layout: default
         <a href="{{ post.url | prepend: site.baseurl }}"> <img class = "thumbnail" src = "{{ post.thumbnail }}" alt = " {{ post.summary }}"/> </a> <br/>
         {{ post.summary }}
       
-      <p> {{ post.content | strip_html | truncatewords: 80 }} </p>
+      <p> {{ post.content | truncatewords: 50 }} </p>
       <a href="{{ post.url | prepend: site.baseurl }}"> Read More >>> </a>
       </li>
     {% endfor %}
