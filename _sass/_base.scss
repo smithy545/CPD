@@ -19,6 +19,14 @@
         -webkit-text-size-adjust: 100%;
     }
 
+    ::-moz-selection {
+        background: $accent-color;
+    }
+
+    ::selection {
+        background: $accent-color;
+    }
+
 /* Set Margin Bottom for Vertical Rhythm
  * ============================================== */
     h1, h2, h3, h4, h5, h6,

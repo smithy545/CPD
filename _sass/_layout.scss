@@ -19,14 +19,14 @@
 
     .site-header h1 {
         display: block;
-        font-size: 80px !important;
-        line-height: 80px;
-        letter-spacing: 3px;
-        text-align: center;
+        font-size: 60px !important;
+        line-height: 84px;
         padding-top: 0px;
+        letter-spacing: 3px;
+        text-align: left;
         clear: both;
         text-transform: uppercase;
-        font-family: 'Open Sans';
+        font-family: 'Open Sans'; 
 
         @include media-query($on-palm) {
             font-size:60px !important;
@@ -34,10 +34,26 @@
         }
     }
 
+    .site-header h3 {
+        display: block;
+        font-size: 20px !important;
+        line-height: 5px;
+        text-align: left;
+        clear: both;
+        text-transform: none;
+        font-family: 'Open Sans';
+        color: $second-accent-color;
+
+        @include media-query($on-palm) {
+            font-size:20px !important;
+            letter-spacing: 0px;
+        }
+    }
+
     .site-header span {
         border: 10px solid transparent;
         padding: 0.3em 0.5em;
-        margin: 10px 0px;
+        margin: 10px 0 0 30px;
         display: inline-block;
 
         @include media-query($on-palm) {
@@ -47,13 +63,13 @@
     }
 
     .site-nav {
-        float: right;
+        float: left;
         line-height: 56px;
-        margin-right: 25px;
-        padding-bottom: 0px;
+        padding-bottom: 10px;
 
         .page-link {
             line-height: $base-line-height;
+            color: $grey-color-dark;
             font-weight: bold;
             letter-spacing: 0.05em;
             @include prefix(transition, color 0.4s linear, webkit moz ms o);
@@ -65,12 +81,28 @@
         }
 
         .page-link:hover {
-            color: $accent-color;
+            color: $third-accent-color;
         }
 
         @include media-query($on-palm) {
             padding-bottom: 10px;
         }
+    }
+
+    /* prepare the selectors to add a stroke to */
+    .stroke {
+      position: relative;
+      z-index: 2;
+    }
+
+    /* add a single stroke */
+    .stroke:after {
+      position: absolute;
+      content: "MARIA KUZNETSOV";
+      top: 3px;
+      left: -4px;
+      z-index: -1;
+      color: $second-accent-color;
     }
 
 /* Site Footer
