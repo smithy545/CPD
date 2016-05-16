@@ -12,6 +12,7 @@
         @include media-query($on-palm) {
             min-height: 200px;
             background-position: center -250px;
+            background-size: cover;
         }
     }
 
