@@ -13,6 +13,7 @@
             min-height: 200px;
             background-position: center -250px;
             background-size: cover;
+            width: 100%;
         }
     }
 
@@ -99,7 +100,7 @@
     /* add a single stroke */
     .stroke:after {
       position: absolute;
-      content: "MARIA KUZNETSOV";
+      content: "MARIA KUZ";
       top: 3px;
       left: -4px;
       z-index: -1;
