@@ -15,11 +15,11 @@ Our final project in Marketing 201 was to rebrand and re-market a dollar bottle 
 <br/>
 During class, we had several field research days where we collected information about consumers. Some key points:
 <ul>
-<li> customers would pay more for a detergent that they felt worked better
-<li> our main competitor is Tide
-<li> liquid detergent was more popular than pods
-<li> but Tide pods were the most popular method
-<li> people also tended to use the same brand they use at home
+<li> customers would pay more for a detergent that they felt worked better</li>
+<li> our main competitor is Tide</li>
+<li> liquid detergent was more popular than pods</li>
+<li> but Tide pods were the most popular method</li>
+<li> people also tended to use the same brand they use at home</li>
 </ul>
 
 <br/><br/>

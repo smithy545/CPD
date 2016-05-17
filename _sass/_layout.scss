@@ -10,7 +10,7 @@
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 200px;
+            min-height: 175px;
             background-position: center -250px;
             background-size: cover;
             width: 100%;
