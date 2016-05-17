@@ -105,19 +105,6 @@
       color: $second-accent-color;
     }
 
-/* Site Footer
- * ============================================== */
-    .footer {
-        padding-bottom: 3em;
-        margin: auto;
-        color: $grey-color-legible;
-        text-align: center;
-        vertical-align: center;
-        i {
-            @extend .read-more;
-        }
-    }
-
 /* Individual Posts
  * ============================================== */
     .page-content {
@@ -129,7 +116,6 @@
         line-height: 1;
         padding-top: 0;
         padding-bottom: 0.5em;
-        letter-spacing: 0.05em;
         text-align: left;
         clear: both;
         text-transform: uppercase;
@@ -181,12 +167,29 @@
     }
     /*footer icons extend read-more*/
 
+/* Site Footer
+ * ============================================== */
+    .footer {
+        padding-bottom: 3em;
+        margin: auto;
+        color: $grey-color-legible;
+        text-align: center;
+
+        i {
+            @extend .read-more;
+            border-width: 0.125em;
+            padding: 3px 6px;
+        }
+    }
+
+    .footer-nav {
+        @extend .site-nav;
+        padding: 0;
+        float: none;
+    }
+
 /* Post Format
  * ============================================== */
-    /*.post-header {
-        margin-bottom: $spacing-unit / 3;
-    }*/
-
     .post-title {
         font-size: 42px;
         line-height: 1;
@@ -196,6 +199,10 @@
         }
     }
 /*
+    .post-header {
+        margin-bottom: $spacing-unit / 3;
+    }
+
     .post-content {
         margin-bottom: $spacing-unit;
         
@@ -268,4 +275,11 @@
     .flyer {
         @extend .post-image;
         display: inline-block;
+    }
+
+    .left {
+        float: left;
+    }
+    .right {
+        float: right;
     }

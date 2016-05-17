@@ -1,5 +1,11 @@
 <div class="footer">
-  	<a href="#">
-  	<i class="fa fa-angle-double-up fa-2x"></i>
-  	</a>
+	<nav class="footer-nav">
+		<a class="page-link" href="{{ post.prev }}"> Previous </a>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <a class="page-link" href="{{ post.prev }}"> Next </a>
+    </nav>
 </div>
