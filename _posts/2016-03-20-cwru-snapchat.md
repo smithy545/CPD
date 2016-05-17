@@ -9,8 +9,8 @@ summary: The first filter to hit campus.
 Snapchat geofilters are activated when you're in a specified range. At a notable destination? Turn on location services and find a cute overlay! The sad thing is though, our campus didn't have any. 
 
 <div class = "post-image">
-<image alt ="Don't worry, I fixed that." src= "/images/snapchat/ksl-2.jpg"/> <br/>
-Don't worry, I fixed that.
+<img alt ="Don't worry, I fixed that." src= "/images/snapchat/ksl-2.jpg"/> <br/>
+Don't worry, I fixed that. 
 </div>
 <br/>
 
@@ -26,15 +26,15 @@ A few days later, though, I got an email saying my filter was approved! Erin and
 
 
 <div class = "post-image">
-<image alt ="The library Snapchat filter in use." src= "/images/snapchat/ksl-3.PNG"/> <br/>
+<img alt ="The library Snapchat filter in use." src= "/images/snapchat/ksl-3.PNG"/> <br/>
 </div>
 <br/>
 
 Since then, the filter has been featured in multiple <em> The Odyssey </em> articles, and my tour guide friends have incorporated it into their tours! It's been exciting to see the filter become a part of campus life. However, CWRU still is lacking in filters. We have a one for the nursing school that spans an overly-large part of campus, and one for the general campus displaying our wind turbine and university center in school colors. I can't say I see those used frequently.
 
 <div class = "post-image">
-<image alt ="So I made a new filter for the spring semester." src= "/images/snapchat/campus-1.jpg"/> <br/>
-So I made a new filter for the spring semester.
+<img alt ="So I made a new filter for the spring semester." src= "/images/snapchat/campus-1.jpg"/> <br/>
+ So I made a new filter for the spring semester.
 </div>
 <br/>
 
