@@ -84,9 +84,11 @@
     a {
         color: darken($brand-color, 10%);
         text-decoration: none;
+        @include prefix(transition, color 0.4s linear, webkit moz ms o);
 
         &:hover {
-            color: darken($brand-color, 20%);
+            /*color: darken($brand-color, 20%);*/
+            color: $third-accent-color;
             text-decoration: none;
         }
     }

@@ -76,7 +76,7 @@
             color: $grey-color-dark;
             font-weight: bold;
             letter-spacing: 0.05em;
-            @include prefix(transition, color 0.4s linear, webkit moz ms o);
+             @include prefix(transition, color 0.4s linear, webkit moz ms o);
 
             &:not(:first-child) {
                 margin-left: 20px;
@@ -247,7 +247,7 @@
         display: inline-block;
         justify-content: center;
         text-align: center;
-        padding: 5px;
+        padding: 5px 5px 5px 0;
     }
 
     .flyer {
