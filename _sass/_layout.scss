@@ -52,7 +52,7 @@
         }
     }
 
-    .site-header span {
+    .site-header div {
         border: 10px solid transparent;
         padding: 0.3em 0.5em;
         margin: 10px 0 0 30px;
@@ -147,6 +147,7 @@
     }
 
     .post-meta {
+        font-family: 'Open Sans'; 
         font-size: $small-font-size;
         color: $grey-color-legible;
         letter-spacing: 0.05em;
