@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 category: design
 layout: post
