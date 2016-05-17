@@ -2,7 +2,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 180px;
+        min-height: 175px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -10,9 +10,8 @@
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 175px;
+            min-height: 150px;
             background-position: center -250px;
-            background-size: cover;
             width: 100%;
         }
     }
@@ -67,8 +66,7 @@
 
     .site-nav {
         float: left;
-        line-height: 56px;
-        padding-bottom: 10px;
+        padding-top: 1em;
 
         .page-link {
             line-height: $base-line-height;
@@ -80,7 +78,6 @@
             &:not(:first-child) {
                 margin-left: 20px;
             }
-            
         }
 
         .page-link:hover {
@@ -98,7 +95,7 @@
       z-index: 2;
     }
 
-    /* add a single stroke */
+    /* the offset text (darker color) */
     .stroke:after {
       position: absolute;
       content: "MARIA KUZNETSOV";
@@ -112,14 +109,10 @@
  * ============================================== */
     .footer {
         padding-bottom: 3em;
-        margin-left: 25px;
         margin: auto;
-        font-size: 12px;
-        font-family: Open Sans;
-        color: #959595;
+        color: $grey-color-legible;
         text-align: center;
         vertical-align: center;
-
         i {
             @extend .read-more;
         }
@@ -133,8 +126,14 @@
     }
 
     .page-heading {
-        font-size: 20px;
-        padding-top: 2px;
+        line-height: 1;
+        padding-top: 0;
+        padding-bottom: 0.5em;
+        letter-spacing: 0.05em;
+        text-align: left;
+        clear: both;
+        text-transform: uppercase;
+        font-family: 'Open Sans'; 
     }
 
 /* Archive
@@ -184,9 +183,9 @@
 
 /* Post Format
  * ============================================== */
-    .post-header {
+    /*.post-header {
         margin-bottom: $spacing-unit / 3;
-    }
+    }*/
 
     .post-title {
         font-size: 42px;
@@ -196,10 +195,10 @@
             font-size: 36px;
         }
     }
-
+/*
     .post-content {
         margin-bottom: $spacing-unit;
-        /*
+        
         h2 {
             font-size: 32px;
 
@@ -222,8 +221,9 @@
             @include media-query($on-laptop) {
                 font-size: 18px;
             }
-        } */
+        } 
     }
+*/
 
 /* Image Format
  * ============================================== */
