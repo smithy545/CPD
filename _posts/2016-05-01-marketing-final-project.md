@@ -57,9 +57,10 @@ It's better.</div>
 EDIT: apparently my team was right on the money! Tide just announced Tide purclean, the 1st bio-based detergent.
 
 <div class = "post-image">
-<image alt ="farsk on the shelves?" src= "/images/farsk/purclean.JPG"/> <br/>
+<image alt ="farsk on the shelves?" src= "/images/farsk/purclean.jpg"/> <br/>
 färsk on the shelves?</div>
 <br/>
 
 The product has a "subtle, clean scent... and the bottle is also 100% recyclable." Sound familiar? Additionally, the press release states that "people have yet to embrace laundry detergents with biobased ingredients because they feel there is a trade-off when it comes to cleaning performance, so we designed our biobased formula to provide more of the environmental benefits people increasingly seek, without compromising the trusted cleaning power of Tide."
 <a href="http://www.businesswire.com/news/home/20160519005211/en/Tide%C2%AE-Launches-Eco-friendly-Detergent-Tide-purclean%E2%84%A2" target="_blank"> Read about purclean and compare for yourself! </a>
+It's really exciting to have our product be be similar.
