@@ -7,7 +7,7 @@ title: Detergent, but Swedish?
 thumbnail: /images/farsk/farsk.gif
 summary: The premiere high-end eco-friendly detergent.
 ---
-Our final project in Marketing 201 was to rebrand and re-market a dollar bottle of detergent. Bright orange bottle, looked and smelled a lot like blue-colored bubble solution, and it was called "LA's Awesome Detergent." What ensued was a little ridiculous.
+Our final project in Marketing 201 was to rebrand and re-market a dollar bottle of detergent. Bright orange bottle, looked and smelled a lot like blue-colored bubble solution, and it was called "LA's Awesome Detergent." What ensued was a little ridiculous. 
 
 <div class = "post-image">
 <image alt ="Our logomark." src= "/images/farsk/farsk-01.png" height="auto" width="auto"/> <br/>
@@ -53,3 +53,13 @@ We got caught up in all these shenanigans, but our presentation stood out from t
 <image alt ="It's better." src= "/images/farsk/farsk.gif"/> <br/>
 It's better.</div>
 <br/>
+
+EDIT: apparently my team was right on the money! Tide just announced Tide purclean, the 1st bio-based detergent.
+
+<div class = "post-image">
+<image alt ="farsk on the shelves?" src= "/images/farsk/purclean.JPG"/> <br/>
+färsk on the shelves?</div>
+<br/>
+
+The product has a "subtle, clean scent... and the bottle is also 100% recyclable." Sound familiar? Additionally, the press release states that "people have yet to embrace laundry detergents with biobased ingredients because they feel there is a trade-off when it comes to cleaning performance, so we designed our biobased formula to provide more of the environmental benefits people increasingly seek, without compromising the trusted cleaning power of Tide."
+<a href="http://www.businesswire.com/news/home/20160519005211/en/Tide%C2%AE-Launches-Eco-friendly-Detergent-Tide-purclean%E2%84%A2" target="_blank"> Read about purclean and compare for yourself! </a>
