@@ -110,6 +110,7 @@
     .page-content {
         padding: $spacing-unit 0;
         text-align: left-align;
+        display: inherit;
     }
 
     .page-heading {
@@ -144,7 +145,7 @@
         @include media-query($on-palm) {
             font-size: 1.33em;
         }
-        &: hover {
+        &:hover {
             border-color: $second-accent-color;
         }
     }

@@ -10,7 +10,7 @@ layout: default
         <span class="post-meta"></span> <br/>
           <p> {{ post.content }} </p>
         <p>
-          <a class = "query-execute read-more"> EXECUTE </a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class = "query-execute read-more"> EXECUTE </a>
         </p>
       </li>
     {% endfor %}

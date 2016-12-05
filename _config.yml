@@ -4,7 +4,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Keeping Cleveland Safe
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mariakuz.github.io" # the base hostname & protocol for your site
+url: "http://CLEpd.github.io" # the base hostname & protocol for your site
 
 
 # Build settings
