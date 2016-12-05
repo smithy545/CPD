@@ -130,7 +130,7 @@
 
         > li {
             display: block;
-            padding: 0.1em 0;
+            padding: 0.1em 0 1.5em 0;
         }
 
     }
@@ -140,9 +140,12 @@
         display: block;
         color: $third-accent-color;
         width: 100%;
-
+        padding: auto 0;
         @include media-query($on-palm) {
             font-size: 1.33em;
+        }
+        &: hover {
+            border-color: $second-accent-color;
         }
     }
 

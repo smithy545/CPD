@@ -6,11 +6,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"></a> 
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
         <span class="post-meta"></span> <br/>
           <p> {{ post.content }} </p>
         <p>
-          <a class = "query-execute read-more"> FIND OUT </a>
+          <a class = "query-execute read-more"> EXECUTE </a>
         </p>
       </li>
     {% endfor %}
