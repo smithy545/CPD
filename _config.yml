@@ -1,12 +1,11 @@
 # Site settings
-title: MARIA KUZNETSOV
+title: CITY OF CLEVELAND POLICE DEPARTMENT
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  the digital experience
+  Keeping Cleveland Safe
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mariakuz.github.io" # the base hostname & protocol for your site
-twitter_username: m_keigh
-github_username: mariakuz
+
 
 # Build settings
 markdown: kramdown

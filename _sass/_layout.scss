@@ -98,7 +98,7 @@
     /* the offset text (darker color) */
     .stroke:after {
       position: absolute;
-      content: "MARIA KUZNETSOV";
+      content: "CITY OF CLEVELAND POLICE DEPARTMENT";
       top: 3px;
       left: -4px;
       z-index: -1;
@@ -130,13 +130,13 @@
 
         > li {
             display: block;
-            padding: 0.1em 0 1.5em 0;
+            padding: 0.1em 0;
         }
 
     }
 
     .post-link {
-        font-size: 1.5em;
+        font-size: 2em;
         display: block;
         color: $third-accent-color;
         width: 100%;
