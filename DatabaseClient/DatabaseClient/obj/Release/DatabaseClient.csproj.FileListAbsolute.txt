@@ -1,0 +1,9 @@
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\DatabaseClient.exe.config
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\DatabaseClient.exe
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\DatabaseClient.pdb
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\EntityFramework.dll
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\EntityFramework.SqlServer.dll
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\EntityFramework.xml
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\bin\Release\EntityFramework.SqlServer.xml
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\obj\Release\DatabaseClient.exe
+c:\users\cjohnson\documents\visual studio 2015\Projects\DatabaseClient\DatabaseClient\obj\Release\DatabaseClient.pdb

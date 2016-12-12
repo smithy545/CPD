@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CrimesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Crimes">
+    <Key>
+      <PropertyRef Name="CrimeId" />
+    </Key>
+    <Property Name="CrimeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CaseId" Type="int" Nullable="false" />
+    <Property Name="TimeDate" Type="datetime" Nullable="false" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CrimeType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Severity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Evidence">
+    <Key>
+      <PropertyRef Name="EvidenceId" />
+    </Key>
+    <Property Name="EvidenceId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CrimeId" Type="int" Nullable="false" />
+    <Property Name="DateFound" Type="datetime" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="EvidenceWeight" Type="decimal" Precision="18" Scale="6" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Investigation">
+    <Key>
+      <PropertyRef Name="CaseId" />
+    </Key>
+    <Property Name="CaseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourtDate" Type="datetime" Nullable="false" />
+    <Property Name="Judge" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Verdict" Type="bit" />
+  </EntityType>
+  <EntityType Name="Officers">
+    <Key>
+      <PropertyRef Name="OfficerId" />
+    </Key>
+    <Property Name="OfficerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="YearsOnForce" Type="int" Nullable="false" />
+    <Property Name="Salary" Type="int" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DivisionId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PoliceDivisions">
+    <Key>
+      <PropertyRef Name="DivisionId" />
+    </Key>
+    <Property Name="DivisionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PoliceChiefId" Type="int" />
+  </EntityType>
+  <EntityType Name="SuspectCrimes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SuspectId" Type="int" Nullable="false" />
+    <Property Name="CrimeId" Type="int" Nullable="false" />
+    <Property Name="IsGuilty" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Suspects">
+    <Key>
+      <PropertyRef Name="SuspectId" />
+    </Key>
+    <Property Name="SuspectId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Mugshot" Type="nvarchar(max)" />
+    <Property Name="DNA" Type="nvarchar(max)" />
+    <Property Name="Race" Type="nvarchar" MaxLength="50" />
+    <Property Name="Height" Type="decimal" Precision="18" Scale="6" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TaskForce">
+    <Key>
+      <PropertyRef Name="TaskForceId" />
+    </Key>
+    <Property Name="TaskForceId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OfficerId" Type="int" Nullable="false" />
+    <Property Name="CrimeId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Vehicles">
+    <Key>
+      <PropertyRef Name="VehicleId" />
+    </Key>
+    <Property Name="VehicleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" />
+    <Property Name="Make" Type="nvarchar" MaxLength="50" />
+    <Property Name="StateProvince" Type="nvarchar" MaxLength="50" />
+    <Property Name="SuspectId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Crimes_Investigation">
+    <End Role="Investigation" Type="Self.Investigation" Multiplicity="1" />
+    <End Role="Crimes" Type="Self.Crimes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Investigation">
+        <PropertyRef Name="CaseId" />
+      </Principal>
+      <Dependent Role="Crimes">
+        <PropertyRef Name="CaseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Evidence_Crimes">
+    <End Role="Crimes" Type="Self.Crimes" Multiplicity="1" />
+    <End Role="Evidence" Type="Self.Evidence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Crimes">
+        <PropertyRef Name="CrimeId" />
+      </Principal>
+      <Dependent Role="Evidence">
+        <PropertyRef Name="CrimeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Officers_PoliceDivisions">
+    <End Role="PoliceDivisions" Type="Self.PoliceDivisions" Multiplicity="1" />
+    <End Role="Officers" Type="Self.Officers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PoliceDivisions">
+        <PropertyRef Name="DivisionId" />
+      </Principal>
+      <Dependent Role="Officers">
+        <PropertyRef Name="DivisionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PoliceDivisions_Officers">
+    <End Role="Officers" Type="Self.Officers" Multiplicity="0..1" />
+    <End Role="PoliceDivisions" Type="Self.PoliceDivisions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Officers">
+        <PropertyRef Name="OfficerId" />
+      </Principal>
+      <Dependent Role="PoliceDivisions">
+        <PropertyRef Name="PoliceChiefId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SuspectCrimes_Crimes">
+    <End Role="Crimes" Type="Self.Crimes" Multiplicity="1" />
+    <End Role="SuspectCrimes" Type="Self.SuspectCrimes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Crimes">
+        <PropertyRef Name="CrimeId" />
+      </Principal>
+      <Dependent Role="SuspectCrimes">
+        <PropertyRef Name="CrimeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SuspectCrimes_Suspects">
+    <End Role="Suspects" Type="Self.Suspects" Multiplicity="1" />
+    <End Role="SuspectCrimes" Type="Self.SuspectCrimes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suspects">
+        <PropertyRef Name="SuspectId" />
+      </Principal>
+      <Dependent Role="SuspectCrimes">
+        <PropertyRef Name="SuspectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TaskForce_Crimes">
+    <End Role="Crimes" Type="Self.Crimes" Multiplicity="1" />
+    <End Role="TaskForce" Type="Self.TaskForce" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Crimes">
+        <PropertyRef Name="CrimeId" />
+      </Principal>
+      <Dependent Role="TaskForce">
+        <PropertyRef Name="CrimeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TaskForce_Officers">
+    <End Role="Officers" Type="Self.Officers" Multiplicity="1" />
+    <End Role="TaskForce" Type="Self.TaskForce" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Officers">
+        <PropertyRef Name="OfficerId" />
+      </Principal>
+      <Dependent Role="TaskForce">
+        <PropertyRef Name="OfficerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Vehicles_Suspects">
+    <End Role="Suspects" Type="Self.Suspects" Multiplicity="1" />
+    <End Role="Vehicles" Type="Self.Vehicles" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Suspects">
+        <PropertyRef Name="SuspectId" />
+      </Principal>
+      <Dependent Role="Vehicles">
+        <PropertyRef Name="VehicleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="CrimesModelStoreContainer">
+    <EntitySet Name="Crimes" EntityType="Self.Crimes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Evidence" EntityType="Self.Evidence" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Investigation" EntityType="Self.Investigation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Officers" EntityType="Self.Officers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PoliceDivisions" EntityType="Self.PoliceDivisions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SuspectCrimes" EntityType="Self.SuspectCrimes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Suspects" EntityType="Self.Suspects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaskForce" EntityType="Self.TaskForce" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vehicles" EntityType="Self.Vehicles" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Crimes_Investigation" Association="Self.FK_Crimes_Investigation">
+      <End Role="Investigation" EntitySet="Investigation" />
+      <End Role="Crimes" EntitySet="Crimes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Evidence_Crimes" Association="Self.FK_Evidence_Crimes">
+      <End Role="Crimes" EntitySet="Crimes" />
+      <End Role="Evidence" EntitySet="Evidence" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Officers_PoliceDivisions" Association="Self.FK_Officers_PoliceDivisions">
+      <End Role="PoliceDivisions" EntitySet="PoliceDivisions" />
+      <End Role="Officers" EntitySet="Officers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PoliceDivisions_Officers" Association="Self.FK_PoliceDivisions_Officers">
+      <End Role="Officers" EntitySet="Officers" />
+      <End Role="PoliceDivisions" EntitySet="PoliceDivisions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SuspectCrimes_Crimes" Association="Self.FK_SuspectCrimes_Crimes">
+      <End Role="Crimes" EntitySet="Crimes" />
+      <End Role="SuspectCrimes" EntitySet="SuspectCrimes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SuspectCrimes_Suspects" Association="Self.FK_SuspectCrimes_Suspects">
+      <End Role="Suspects" EntitySet="Suspects" />
+      <End Role="SuspectCrimes" EntitySet="SuspectCrimes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TaskForce_Crimes" Association="Self.FK_TaskForce_Crimes">
+      <End Role="Crimes" EntitySet="Crimes" />
+      <End Role="TaskForce" EntitySet="TaskForce" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TaskForce_Officers" Association="Self.FK_TaskForce_Officers">
+      <End Role="Officers" EntitySet="Officers" />
+      <End Role="TaskForce" EntitySet="TaskForce" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Vehicles_Suspects" Association="Self.FK_Vehicles_Suspects">
+      <End Role="Suspects" EntitySet="Suspects" />
+      <End Role="Vehicles" EntitySet="Vehicles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

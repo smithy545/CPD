@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9f80bb58eba5493986fa3a93b796c4c3" Name="Diagram1">
+        <EntityTypeShape EntityType="CrimesModel.Crime" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CrimesModel.Evidence" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CrimesModel.Investigation" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CrimesModel.SuspectCrime" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CrimesModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="CrimesModel.FK_Crimes_Investigation" ManuallyRouted="false" />
+        <AssociationConnector Association="CrimesModel.FK_Evidence_Crimes" ManuallyRouted="false" />
+        <AssociationConnector Association="CrimesModel.FK_SuspectCrimes_Crimes" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="CrimesModel.Officer" Width="1.5" PointX="0.75" PointY="9.25" />
+        <EntityTypeShape EntityType="CrimesModel.PoliceDivision" Width="1.5" PointX="3" PointY="12.125" />
+        <EntityTypeShape EntityType="CrimesModel.Suspect" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="CrimesModel.TaskForce" Width="1.5" PointX="5.625" PointY="8.375" />
+        <EntityTypeShape EntityType="CrimesModel.Vehicle" Width="1.5" PointX="5.625" PointY="11.75" />
+        <AssociationConnector Association="CrimesModel.FK_TaskForce_Crimes" />
+        <AssociationConnector Association="CrimesModel.FK_Officers_PoliceDivisions" />
+        <AssociationConnector Association="CrimesModel.FK_PoliceDivisions_Officers" />
+        <AssociationConnector Association="CrimesModel.FK_TaskForce_Officers" />
+        <AssociationConnector Association="CrimesModel.FK_SuspectCrimes_Suspects" />
+        <AssociationConnector Association="CrimesModel.FK_Vehicles_Suspects" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
