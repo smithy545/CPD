@@ -40,13 +40,41 @@
 		<form method="post" id="#evidenceForm">
 			<input type="text" name="formType" value="evidence" hidden>
 			<div class="form-group">
-				<label for="inputMake">Crime Id</label>
+				<label for="inputCrime">Crime Id</label>
 				<br/>
-				<input name="crimeId" type="text" class="form-control" required>
+				<input name="crimeId" type="text" class="form-control" id="inputCrime" required>
 			</div>
 			<button type="submit" class="btn btn-primary">Submit</button>
 		</form>
-	</div></div>
+	</div>
+	<div class="form-holder" id="vehicles">
+		<form method="post" id="#vehicleForm">
+			<input type="text" name="formType" value="vehicle" hidden>
+			<div class="form-group">
+				<label for="inputMake">Model</label>
+				<br/>
+				<input name="model" type="text" class="form-control" id="inputMake" required>
+			</div>
+			<div class="form-group">
+				<label for="inputState">State</label>
+				<br/>
+				<input name="state" type="text" class="form-control" id="inputState" required>
+			</div>
+			<button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+	</div>
+	<div class="form-holder" id="officers">
+		<form method="post" id="#officerForm">
+			<input type="text" name="formType" value="officer" hidden>
+			<div class="form-group">
+				<label for="inputName">Name</label>
+				<br/>
+				<input name="name" type="text" class="form-control" id="inputname" required>
+			</div>
+			<button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+	</div>
+</div>
 <br>
 <br>
 <div id="results">
@@ -72,17 +100,22 @@
 		$("form").submit(function(evt) {
 			evt.preventDefault();
 
+			$("#resultList").html("");
+
 			$.ajax({
 				method: "post",
 				data: $(this).serialize(),
 				success: function(data) {
-					// assuming list data
 					$("#resultLog").text("Found " + data.length + " results matching your query.");
-					$.each(data, function(i, value) {
-						$("#resultList").append("<li>" + value + "</li>");
+					$.each(data, function(i, obj) {
+						var li = "<li>";
+						for(var i in obj) {
+							li += i + ": " + obj[i] + ", ";
+						}
+						$("#resultList").append(li + "</li>");
 					});
 				},
-				error: function() {
+				error: function(err) {
 					$("#resultLog").text("There was an error requesting data.");
 				}
 			});

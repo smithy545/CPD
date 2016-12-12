@@ -57,6 +57,23 @@ var evidenceMap = {
     id: evidenceValidator.check().dataType("isNumeric")
 };
 
+var vehicleValidator = new Validator({
+    select: ['model', 'state']
+});
+
+var vehicleMap = {
+    model: vehicleValidator.check().dataType("isAlpha"),
+    state: vehicleValidator.check().dataType("isAlpha")
+};
+
+var officerValidator = new Validator({
+    select: ['name']
+});
+
+var officerMap = {
+    name: officerValidator.check().dataType("isAlpha")
+};
+
 // server stuff
 app.get('/', function(req, res) {
 	res.render('index');
@@ -87,6 +104,8 @@ app.post('/', function(req, res) {
                 if(err) return;
                 res.send(results);
             });
+        } else {
+            throw "err";
         }
     } else if(form.formType === "evidence") {
         query = {
@@ -97,11 +116,46 @@ app.post('/', function(req, res) {
             + "Case_id=" + form.crimeId + ";";
 
             connection.query(stmt, function(err, results) {
-                console.log(err, results);
                 if(err) return;
                 res.send(results);
             });
+        } else {
+            throw "err";
         }
+    } else if(form.formType === "vehicle") {
+        query = {
+            model: form.model,
+            state: form.state
+        }
+        if(vehicleValidator.isValid(query, vehicleMap, 'select').valid) {
+            stmt = "SELECT * FROM vehicles WHERE "
+            + "Model='" + form.model
+            + "' AND StateProvince='" + form.state + "';";
+
+            connection.query(stmt, function(err, results) {
+                if(err) return;
+                res.send(results);
+            });
+        } else {
+            throw "err";
+        }
+    } else if(form.formType === "officer") {
+        query = {
+            name: form.name
+        }
+        if(officerValidator.isValid(query, officerMap, 'select').valid) {
+            stmt = "SELECT * FROM officers WHERE "
+            + "Name='" + form.name + "';";
+
+            connection.query(stmt, function(err, results) {
+                if(err) return;
+                res.send(results);
+            });
+        } else {
+            throw "err";
+        }
+    } else {
+        throw "error";
     }
 });
 
